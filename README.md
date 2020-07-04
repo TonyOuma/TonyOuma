@@ -1,16 +1,34 @@
 ### Hi there 👋
 
-<!--
-**TonyOuma/TonyOuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am **Tony Ouma**, a ✨ _BSc. Mathematics and Computer Science Final Year Student_ ✨ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Below is some little information about me :smiley: :
+
+- 🔭 I’m currently available for hire
+```
+With the following knowledge base
+  - JavaScript Programming
+  - HTML5
+  - CSS3
+  - React
+  - SASS CSS Preprocessor
+  - Agile Development
+  - R Programming
+  
+  General Familiarity in the following technology stack:
+    - Python Programming
+    - C
+    - C++
+    - A.I 
+``` 
+- 🌱 I’m currently actively learning JavaScript
+- 👯 I’m looking to collaborate on Web Application Projects
+- 📫 How to reach me: **_oumat621@gmail.com_** 💬 _+(254) 704051993_
+
+
+- ⚡ Fun fact:
+  ```
+  I perfectly replicate creative visual design ideas into code
+  ```
+
