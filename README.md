@@ -14,21 +14,22 @@
 <br />
 <br />
 
-
+**Languages and Tools:**  
 
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="50" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="50" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/></p>
 
 
 
 
-I am **Tony Ouma**, a ✨ _BSc. Mathematics and Computer Science Final Year Student_ ✨ 
 
-Some little information about me :smiley: :
+
+Some little information :smiley: :
 
 
 - 🌱 I’m currently actively learning JavaScript
 - 👯 I’m looking to collaborate on Web Application Projects
-- 📫 How to reach me: **_oumat621@gmail.com_** 💬 _+(254) 704051993_
+- 📫 How to reach me: **_oumat621@gmail.com_**
+- I am a ✨ _BSc. Mathematics and Computer Science Final Year Student_ ✨ 
 
 
 - ⚡ Fun fact:
@@ -39,7 +40,6 @@ Some little information about me :smiley: :
   ```
 <br />      
 
-[![Visits Badge](https://badges.pufler.dev/visits/{TonyOuma}/{TonyOuma)](https://github.com/TonyOuma)
 
 
 <a href="https://codepen.io/tonyouma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="tonyouma" height="30" width="30" /></a>
@@ -53,3 +53,4 @@ Some little information about me :smiley: :
 <a href="https://medium.com/@oumat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@oumat" height="30" width="30" /></a>
 
  
+[![Visits Badge](https://badges.pufler.dev/visits/{TonyOuma}/{TonyOuma)](https://github.com/TonyOuma)
