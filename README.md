@@ -1,3 +1,10 @@
+<h1 align="center">Hi 👋, I'm Tony Ouma</h1>
+<h3 align="center">A passionate frontend developer from Kenya</h3>
+
+- 📫 How to reach me **oumat621@gmail.com**
+
+<br />
+
 <a href="https://github.com/TonyOuma/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TonyOuma&show_icons=true&theme=vue" alt="TonyOuma's github stats" />
 </a>
@@ -13,9 +20,7 @@
 
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/></p>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"></code>
+
 
 
 ![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
@@ -36,7 +41,7 @@ Below is some little information about me :smiley: :
   
   
   ```
-<br />
+<br />      
 
 [![Visits Badge](https://badges.pufler.dev/visits/{TonyOuma}/{TonyOuma)](https://github.com/TonyOuma)
 
