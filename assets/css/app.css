@@ -1,0 +1,86 @@
+footer {
+  background: #E9E9E9;
+  padding: 10vh 0 10vh 10vw;
+}
+
+footer .right-content {
+  background: #000;
+  color: #fff;
+  padding: 10vh 0 10vh 5vw;
+  margin-top: 5vh;
+}
+
+footer h2 {
+  font-size: clamp(30px, 5vw, 48px);
+  font-weight: 700;
+}
+
+footer .form-control {
+  background: transparent;
+}
+
+footer .form-group input {
+  outline: none;
+  border-width: 0 0 1px !important;
+  border-radius: 0px;
+  -webkit-box-shadow: inset 0 0px 2px rgba(10, 10, 10, 0.1);
+          box-shadow: inset 0 0px 2px rgba(10, 10, 10, 0.1);
+}
+
+footer .form-group textarea {
+  outline: none !important;
+  resize: none;
+  border-width: 0 0 1px;
+  border-radius: 0;
+  -webkit-box-shadow: inset 0 0px 2px rgba(10, 10, 10, 0.1);
+          box-shadow: inset 0 0px 2px rgba(10, 10, 10, 0.1);
+}
+
+footer form {
+  width: 80%;
+}
+
+footer form ::-webkit-input-placeholder {
+  letter-spacing: 1.75px;
+  color: #000;
+}
+
+footer form :-ms-input-placeholder {
+  letter-spacing: 1.75px;
+  color: #000;
+}
+
+footer form ::-ms-input-placeholder {
+  letter-spacing: 1.75px;
+  color: #000;
+}
+
+footer form ::placeholder {
+  letter-spacing: 1.75px;
+  color: #000;
+}
+
+footer svg {
+  fill: #fff !important;
+}
+
+footer span {
+  margin: auto;
+  text-align: center;
+}
+
+footer span button {
+  color: #fff;
+  background: #000;
+  padding: 10px 50px;
+  border-radius: 20px;
+}
+
+footer ul {
+  list-style: none;
+}
+
+.footer-text {
+  text-align: center;
+}
+/*# sourceMappingURL=app.css.map */
