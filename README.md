@@ -53,4 +53,4 @@ Some little information :smiley: :
 <a href="https://medium.com/@oumat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@oumat" height="30" width="30" /></a>
 
  
-[![Visits Badge](https://badges.pufler.dev/visits/{TonyOuma}/{TonyOuma)](https://github.com/TonyOuma)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tonyouma" alt="tonyouma" /> </p>
