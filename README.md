@@ -22,10 +22,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   8 hrs 23 mins   ████████████████████████▒   97.12 % 
-Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
-JSON         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Week: 23 January, 2021 - 30 January, 2021
+
+TypeScript   8 hrs 23 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤   97.12 % 
+Other        7 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.38 % 
+JSON         6 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.30 % 
+Git Config   1 min           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.20 % 
 ```
 <!--END_SECTION:waka-->
 
