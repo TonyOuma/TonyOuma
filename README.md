@@ -14,9 +14,7 @@
 <br />
 <br />
 
-**Languages and Tools:**  
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="50" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="50" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/></p>
 
 
 
@@ -32,15 +30,28 @@ Git Config   1 min           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 
+
 Some little information :smiley: :
 
 
 - 🌱 I’m currently actively learning JavaScript
 - 👯 I’m looking to collaborate on Web Application Projects
 - 📫 How to reach me: **_oumat621@gmail.com_**
-- I am a ✨ _BSc. Mathematics and Computer Science Final Year Student_ ✨ 
+- I am a ✨ Statistician and Computer Scientist✨ 
 
+**Languages and Tools:**  
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code>
+<img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
+</code>
+<code>
+<img alt="ubuntu" width="26px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">
+</code>
 - ⚡ Fun fact:
   ```
   I perfectly replicate creative visual design ideas into code
@@ -63,3 +74,4 @@ Some little information :smiley: :
 
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonyouma" alt="tonyouma" /> </p>
+
