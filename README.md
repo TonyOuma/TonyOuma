@@ -30,11 +30,12 @@ Sass         9 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 <!--END_SECTION:waka-->
 
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://github.com/TonyOuma/github-readme-streak-stats)
 
 
 
-Some little information :smiley: :
+**Some little information :smiley: :**
 
 
 - 🌱 I’m currently actively learning JavaScript
