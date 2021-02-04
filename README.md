@@ -30,6 +30,8 @@ Sass         9 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 <!--END_SECTION:waka-->
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://github.com/TonyOuma/github-readme-streak-stats)
+
 
 
 Some little information :smiley: :
@@ -92,6 +94,7 @@ Some little information :smiley: :
 <a href="https://fb.com/ouma tony" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ouma tony" height="30" width="30" /></a>
 <a href="https://instagram.com/ouma.tony" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ouma.tony" height="30" width="30" /></a>
 <a href="https://medium.com/@oumat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@oumat" height="30" width="30" /></a>
+
 
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonyouma" alt="tonyouma" /> </p>
