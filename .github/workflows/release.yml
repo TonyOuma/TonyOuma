@@ -26,4 +26,4 @@ jobs:
       - name: Release
         run: yarn semantic-release
         env:
-          GITHUB_TOKEN: ${{ secrets.PORTFOLIO_APP }}
+          GITHUB_TOKEN: ${{ secrets.TONY_OUMA_APP }}
