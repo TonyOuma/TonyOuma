@@ -11,6 +11,14 @@ export enum fontSizes {
   font_heading = "32px",
 }
 
+export enum fontWeight {
+  regular = 400,
+  mediumOne = 500,
+  mediumTwo = 600,
+  bold = 700,
+  extrabold = 900,
+}
+
 export interface IColors {
   darkNavy: string;
   navy: string;
@@ -46,7 +54,16 @@ export const appTheme = createMuiTheme({
   typography: {
     // fontFamily:
     h2: {
-      //
+      // display: "flex",
+      // alignItems: "center",
+      // position: "relative",
+      // margin: "10px 0 40px",
+      color: colors.lightestSlate,
+      fontWeight: fontWeight.mediumTwo,
+
+      // "&:before": {
+      //   content: "4",
+      // },
     },
     // body1: {
     // },
