@@ -4,10 +4,10 @@ import { Box } from "@material-ui/core";
 import styled from "styled-components";
 import { colors } from "../../../theme/theme";
 
-interface ISideProps {
-  //   isHome: boolean;
-  orientation: string;
-}
+// interface ISideProps {
+//   //   isHome: boolean;
+//   orientation: string;
+// }
 
 const StyledSideElement = styled(Box)`
   width: 40px;

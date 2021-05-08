@@ -14,7 +14,7 @@ import SocialMedia from "./content/social";
 const Layout: FC<React.PropsWithChildren<{}>> = (props) => {
   const { children } = props;
   const isHome = location.pathname === "/";
-  const [isLoading, setLoading] = useState(isHome);
+  const [isLoading] = useState(isHome);
 
   useEffect(() => {
     if (isLoading) {
