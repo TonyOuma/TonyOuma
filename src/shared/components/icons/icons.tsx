@@ -1,36 +1,35 @@
 import React from "react";
-
 import {
-  GitHub,
-  Linkedin,
-  Instagram,
-  Twitter,
   Codepen,
   Folder,
+  GitHub,
+  Instagram,
+  Linkedin,
+  Twitter,
 } from "react-feather";
 
 interface IconProps {
   name: string;
-  size?: number;
+  // size?: number;
 }
 const Icon: React.FC<IconProps> = (props) => {
-  const { name, size } = props;
+  const { name } = props;
 
   switch (name) {
     case "GitHub":
-      return <GitHub />;
+      return <GitHub size={24} />;
     case "Linkedin":
-      return <Linkedin />;
+      return <Linkedin size={24} />;
     case "Instagram":
-      return <Instagram />;
+      return <Instagram size={24} />;
     case "Twitter":
-      return <Twitter />;
+      return <Twitter size={24} />;
     case "Codepen":
-      return <Codepen />;
+      return <Codepen size={24} />;
     case "Folder":
-      return <Folder />;
+      return <Folder size={24} />;
     default:
-      return <Codepen />;
+      return <Codepen size={24} />;
   }
 };
 export default Icon;
