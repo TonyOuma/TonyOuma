@@ -1,13 +1,10 @@
+import { Link, List, ListItem } from "@material-ui/core";
 import React from "react";
-import PropTypes from "prop-types";
 import styled from "styled-components";
-
-import Side from "./side";
-import { List, ListItem } from "@material-ui/core";
 import { colors } from "../../../theme/theme";
-import { socialMedia } from "../../data/socialMediaLinks";
 import Icon from "../../components/icons/icons";
-// import { Link } from "react-router-dom";
+import { socialMedia } from "../../data/socialMediaLinks";
+import Side from "./side";
 
 // interface IProps {
 //   isHome: boolean;
@@ -20,6 +17,7 @@ const StyledList = styled(List)`
   margin: 0;
   padding: 0;
   list-style: none;
+  left: 40px;
 
   &:after {
     content: "";
@@ -37,9 +35,13 @@ const StyledList = styled(List)`
   } */
 `;
 
-const StyledIcon = styled(Icon)`
-  height: 50px;
+const StyledListItem = styled(ListItem)`
+  height: 40px;
   width: auto;
+`;
+
+const StyledLink = styled(Link)`
+  color: ${colors.lightSlate};
 `;
 
 const SocialMedia: React.FC<{}> = () => {
@@ -47,13 +49,13 @@ const SocialMedia: React.FC<{}> = () => {
   return (
     <Side>
       <StyledList>
-        {socialMedia &&
-          socialMedia.map(({ url, name }, i) => (
-            <ListItem key={i}>
-              {/* <Link to="/">ti</Link> */}
-              <StyledIcon name={name} />
-            </ListItem>
-          ))}
+        {socialMedia?.map(({ url, name }, i) => (
+          <StyledListItem button>
+            <StyledLink href={url} aria-label={name}>
+              <Icon name={name} />
+            </StyledLink>
+          </StyledListItem>
+        ))}
       </StyledList>
     </Side>
   );
